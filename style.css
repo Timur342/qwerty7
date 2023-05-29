@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 10px;
+}
+header img {
+    padding: 10px;
+}
+header a {
+    color: white;
+    background-color: blue;
+    border: 3px solid tomato;
+}
+footer p {
+background-color: blueviolet;
+border: 3px solid black;
+border-radius: 5px;
+}
+.produkt {
+    color: blue;
+    background-color: white;
+    border: 3px solid blue;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 3px;
+    margin: 5px;
+}
+nav a {
+    color: white;
+    background-color: blue;
+    border: 3px solid blue;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 3px;
+    margin: 5px;
+}
+.tovar {
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+}
+main {
+    margin: 10px;
+    font-size: 20px;
+}
+main h2 {
+    color: blue;
+}
